@@ -10,3 +10,38 @@
     Developing functionalities using Spring and Angular frameworks and AWS.
     Testing, Deployment, and Monitoring.
 
+- layout: top-middle
+  name: UHX Platform
+  link:
+  github:
+  quote: >
+    UHX Helps Hospice agencies to locate doctors and nurses to provide on-demand or pre-scheduled care to patients also simplify the process of workforce assignment. UHX is a collection of microservices built using Spring framework and storage and streaming components like Redis, PostgresSQL, Elasticsearch, RabbitMQ.
+  description: > #| this will include new lines to allow paragraphs
+    Data flow and Class diagrams for feature implementation.
+REST API development for data transactions from/to Elasticsearch, Redis, and Postgres.
+Implementation of FCM, Twilio.
+Working with GeoSpatial stores: PostGIS, Tile38.
+Unit testing, Load testing.
+
+- layout: top-middle
+  name: Dialogflow Bot
+  link:
+  github:
+  quote: >
+    Built a bot that can suggest food based on persons’ medical conditions and making sure of the delivery process.
+    
+- layout: top-middle
+  name: Apache cTAKES
+  link:
+  github:
+  quote: >
+    Built a service that can extract medical information from the given text and integrated with Dialogflow bot to extract intent.
+    
+- layout: top-middle
+  name: Tile38
+  link:
+  github:
+  quote: >
+    Built a service that can detect the user’s presence in and out of a given Geo area in Near Real-time.
+  
+
