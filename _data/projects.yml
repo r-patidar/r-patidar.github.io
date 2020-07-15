@@ -6,7 +6,7 @@
   quote: >
     This project integrates the different solutions used by a person in daily life namely Outlook calendar, Jira, Google calendar, RescueTime, Location, Stripe information to provide insight based on the information received from these sources. This project is hosted on AWS EC2 instance, built using the Spring framework usage AWS RDS (PostgreSQL) and Elasticsearch for data storage and followed Agile development methodology.
   description: > #| this will include new lines to allow paragraphs
-    Customer interaction, Understand project requirements, and Iteration planning.\n
-    Developing functionalities using Spring and Angular frameworks and AWS.\n
-    Testing, Deployment, and Monitoring.\n
+    Customer interaction, Understand project requirements, and Iteration planning.
+    Developing functionalities using Spring and Angular frameworks and AWS.
+    Testing, Deployment, and Monitoring.
 
