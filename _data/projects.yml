@@ -6,9 +6,9 @@
   quote: >
     This project integrates the different solutions used by a person in daily life namely Outlook calendar, Jira, Google calendar, RescueTime, Location, Stripe information to provide insight based on the information received from these sources. This project is hosted on AWS EC2 instance, built using the Spring framework usage AWS RDS (PostgreSQL) and Elasticsearch for data storage and followed Agile development methodology.
   description: > #| this will include new lines to allow paragraphs
-    Customer interaction, Understand project requirements, and Iteration planning.
-    Developing functionalities using Spring and Angular frameworks and AWS.
-    Testing, Deployment, and Monitoring.
+    - Customer interaction, Understand project requirements, and Iteration planning.
+    - Developing functionalities using Spring and Angular frameworks and AWS.
+    - Testing, Deployment, and Monitoring.
 
 - layout: top-middle
   name: UHX Platform
@@ -17,11 +17,11 @@
   quote: >
     UHX Helps Hospice agencies to locate doctors and nurses to provide on-demand or pre-scheduled care to patients also simplify the process of workforce assignment. UHX is a collection of microservices built using Spring framework and storage and streaming components like Redis, PostgresSQL, Elasticsearch, RabbitMQ.
   description: > #| this will include new lines to allow paragraphs
-    Data flow and Class diagrams for feature implementation.
-    REST API development for data transactions from/to Elasticsearch, Redis, and Postgres.
-    Implementation of FCM, Twilio.
-    Working with GeoSpatial stores: PostGIS, Tile38.
-    Unit testing, Load testing.
+    - Data flow and Class diagrams for feature implementation.
+    - REST API development for data transactions from/to Elasticsearch, Redis, and Postgres.
+    - Implementation of FCM, Twilio.
+    - Working with GeoSpatial stores: PostGIS, Tile38.
+    - Unit testing, Load testing.
 
 - layout: top-middle
   name: Dialogflow Bot
