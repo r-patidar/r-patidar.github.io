@@ -20,9 +20,13 @@
     UHX Helps Hospice agencies to locate doctors and nurses to provide on-demand or pre-scheduled care to patients also simplify the process of workforce assignment. UHX is a collection of microservices built using Spring framework and storage and streaming components like Redis, PostgresSQL, Elasticsearch, RabbitMQ.
   description: > #| this will include new lines to allow paragraphs
     - Data flow and Class diagrams for feature implementation.
+    
     - REST API development for data transactions from/to Elasticsearch, Redis, and Postgres.
+    
     - Implementation of FCM, Twilio.
+    
     - Working with GeoSpatial stores: PostGIS, Tile38.
+    
     - Unit testing, Load testing.
 
 - layout: top-middle
