@@ -44,7 +44,7 @@ linkedin_username: rohit-patidar
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: assets/IMG_20181008_012515_100.jpg
 about_content: | # this will include new lines to allow paragraphs
   Building REST APIs using the Spring framework for Health care to enable higher standards of monitoring and communication. Working with Event-based microservice architecture to deliver high performance and near real-time data. 
 
